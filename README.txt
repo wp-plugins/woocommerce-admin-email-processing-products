@@ -1,6 +1,6 @@
 === woocommerce admin email processing products (waepp) ===
 Contributors: Myum
-Donate link: http://myum.cat
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=B8MQLVAF5PSYJ
 Tags: woocommerce, email, products, onhold, quantity, command, ecommerce
 Requires at least: 3.8
 Tested up to: 4.1
