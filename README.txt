@@ -4,7 +4,7 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_i
 Tags: woocommerce, email, products, onhold, quantity, command, ecommerce
 Requires at least: 3.8
 Tested up to: 4.1
-Stable tag: 1.1.1
+Stable tag: 1.1.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -48,7 +48,10 @@ and the the last one that shows the number of items of that product that has bee
 
 == Changelog ==
 
-= 1.1.0 =
+= 1.1.2 =
+* Catalan and Spanish binaries reupdated ¬¬
+
+= 1.1.1 =
 * Catalan and Spanish binaries reupdated
 
 = 1.1.0 =
@@ -59,7 +62,10 @@ and the the last one that shows the number of items of that product that has bee
 
 == Upgrade Notice ==
 
-= 1.1.0 =
+= 1.1.2 =
+	reupdate .mo (catalan spanish) ¬¬
+
+= 1.1.1 =
 	reupdate .mo (catalan spanish) 
 
 = 1.1.0 =
